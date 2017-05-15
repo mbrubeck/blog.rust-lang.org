@@ -101,7 +101,7 @@ look at Project Quantum.
 [GNOME], a free and open source desktop environment for Linux, went from
 experimenting with Rust in [librsvg] in October 2016 to a [hackfest] in March
 to work on the interoperability between GNOME and Rust to enable more GNOME
-components to be written in Rust. The hackfest participants made good progress,
+components to be written in Rust. The hackfest participants made good progress;
 be sure to check out the reports at the bottom of the hackfest page for all the
 details. We're all excited about the possibilities of Rust and GNOME working
 together.
